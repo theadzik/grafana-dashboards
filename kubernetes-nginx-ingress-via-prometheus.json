@@ -2094,6 +2094,6 @@
   },
   "timezone": "",
   "title": "Kubernetes Nginx Ingress Controller NextGen - DevOps Nirvana",
-  "uid": "k8s-nginx-ingress-prometheus-ng",
-  "version": 29
+  "uid": "ng-ingress-nginx",
+  "version": 30
 }
